@@ -1,0 +1,11 @@
+# ipython 
+# ipykernel 
+# jupyterlab 
+mlflow 
+pandas 
+altair 
+altair_viewer
+vega
+jupyter-server-proxy
+git+https://github.com/baumanab/mlflow_viz_flavour.git
+git+https://github.com/baumanab/mlflow_vegastyle.git
