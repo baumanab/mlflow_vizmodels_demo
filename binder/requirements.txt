@@ -6,6 +6,7 @@ pandas
 altair 
 altair_viewer
 vega
+numpy # not needed forcing a rebuild
 jupyter-server-proxy
 git+https://github.com/baumanab/mlflow_viz_flavour.git
 git+https://github.com/baumanab/mlflow_vegastyle.git
